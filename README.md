@@ -17,3 +17,6 @@ Execute and test your application by simulating it on the host machine
 
 
 https://www.coursera.org/learn/introduction-embedded-systems/peer/prT70/expanded-build-system-and-memory
+
+
+![Makerfile executational 2](https://user-images.githubusercontent.com/63025671/109136968-5b2ad980-7761-11eb-98dd-02e7273f2de8.JPG)
